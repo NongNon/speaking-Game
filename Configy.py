@@ -102,7 +102,7 @@ class Game_p:
         },
         {
             'image':Image.open("images\\animal\\1.jpg"),
-            'ans':['แมว','cat']
+            'ans':['แมว','cat','น้อง']
         },
         {
             'image':Image.open("images\\animal\\2.jpg"),

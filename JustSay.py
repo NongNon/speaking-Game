@@ -7,6 +7,6 @@ if __name__ == '__main__':
     fiber=conny.get_conect()
     app=Main(fiber)
 
-    app.title("PDsdsadsasd")
+    app.title("Just say!")
     app.geometry("1200x800+80+10")
     app.mainloop()
